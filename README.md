@@ -47,7 +47,7 @@ The Cliff Walking environment is represented as a grid where:
 ```
 | S |   |   |   |   |   |   |   |   |   |   | G |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| C | C | C | C | C | C | C | C | C | C | C |   |
+|   | C | C | C | C | C | C | C | C | C | C |   |
 ```
 
 
